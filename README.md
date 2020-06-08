@@ -1,4 +1,4 @@
-# SnowDump
+# SnowDump to Exploit ServiceNow portal
 Attempt to connect to and dump all tables within a ServiceNow instance.
 
 
